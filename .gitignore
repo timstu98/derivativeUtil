@@ -1,6 +1,7 @@
 ### Custom
 
 .clang-format
+.vscode
 
 ### Template C++
 
